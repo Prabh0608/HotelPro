@@ -1,6 +1,8 @@
 # HotelPro
 
 HotelPro is a full-stack hotel room booking and management application. Guests can browse rooms, submit a reservation, and manage their bookings. Admins can manage room inventory and review and update reservations and registered users.
+Made By: Prabhjot Singh Saini
+Enrollment: En24cs3010745
 
 ## Features
 
